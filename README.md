@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Subhi Bekri  
 
-💻 A passionate **Django Developer** and aspiring **DevOps Engineer** from Sakarya.  
-🌍 I focus on building robust backends with **Django & DRF**, and I’m diving deep into the world of **DevOps** to automate, scale, and secure deployments.  
-🚀 My goal is to bridge development and operations, ensuring smooth workflows, CI/CD pipelines, and efficient cloud-based systems.  
+💻 I’m a passionate **Backend Developer (Django & DRF)**
+🌍 Currently focusing on building reliable and scalable backends.  
+🚀 Aspiring to expand my skills into the **DevOps world**, learning how to automate, scale, and deploy applications efficiently.  
 🤖 Always curious about **Open Source**, **Cloud Infrastructure**, and **AI-driven solutions**.  
 📚 Believer in clean code, continuous learning, and knowledge sharing.  
 
