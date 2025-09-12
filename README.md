@@ -22,5 +22,5 @@
 
 ## 📬 Get in Touch  
 
-📧 Email: subhibekri@gmail.com
-- 💼 LinkedIn: [Subhi Bekri]([https://linkedin.com/](https://www.linkedin.com/in/subhi-bekri/))  
+- 📧 Email: subhibekri@gmail.com  
+- 💼 LinkedIn: [Subhi Bekri](https://www.linkedin.com/in/subhi-bekri/)  
