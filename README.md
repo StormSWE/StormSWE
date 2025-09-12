@@ -22,6 +22,5 @@
 
 ## 📬 Get in Touch  
 
-- 📧 Email: [subhibekri@example.com](mailto:subhibekri@example.com)  
-- 💼 LinkedIn: [Subhi Bekri](https://linkedin.com/)  
-- 🐙 GitHub: [TheBakri](https://github.com/TheBakri)  
+- 📧 Email: [subhibekri@example.com](mailto:subhibekri@gmail.com)  
+- 💼 LinkedIn: [Subhi Bekri]([https://linkedin.com/](https://www.linkedin.com/in/subhi-bekri/))  
