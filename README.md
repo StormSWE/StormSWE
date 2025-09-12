@@ -1,11 +1,10 @@
-# 👋 Hello, I'm Subhi Bekri
+# 👋 Hello, I'm Subhi Bekri  
 
-💻 Software Developer from Sakarya  
-🎓 Background in Information Technology & backend systems  
-🚀 Passionate about **Backend Development**, mainly with **Django & REST APIs**  
-⚡ Skilled in building **scalable, secure, and efficient applications**  
-🤖 Interested in **Open Source, AI integration, and DevOps practices**  
-🌱 Always learning new tools and exploring modern technologies  
+💻 A passionate **Django Developer** and aspiring **DevOps Engineer** from Sakarya.  
+🌍 I focus on building robust backends with **Django & DRF**, and I’m diving deep into the world of **DevOps** to automate, scale, and secure deployments.  
+🚀 My goal is to bridge development and operations, ensuring smooth workflows, CI/CD pipelines, and efficient cloud-based systems.  
+🤖 Always curious about **Open Source**, **Cloud Infrastructure**, and **AI-driven solutions**.  
+📚 Believer in clean code, continuous learning, and knowledge sharing.  
 
 ---
 
@@ -17,6 +16,16 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![CI/CD](https://img.shields.io/badge/CI%2FCD-A100FF?style=for-the-badge&logo=githubactions&logoColor=white)  
+![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
+
+---
+
+## 📊 GitHub Highlights  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheBakri&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=TheBakri&theme=radical)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=TheBakri&theme=radical&no-frame=true&margin-w=5)  
 
 ---
 
@@ -25,5 +34,3 @@
 - 📧 Email: [subhibekri@example.com](mailto:subhibekri@example.com)  
 - 💼 LinkedIn: [Subhi Bekri](https://linkedin.com/)  
 - 🐙 GitHub: [TheBakri](https://github.com/TheBakri)  
-
----
