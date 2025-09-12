@@ -7,5 +7,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBakri&show_icons=true&theme=radical)
 ![Profile Badge](https://img.shields.io/badge/Code-Python-blue?logo=python)
-![Profile Badge](https://img.shields.io/badge/Code-JS-yellow?logo=javascript)
 ![Profile Badge](https://img.shields.io/badge/Tools-GitHub-black?logo=github)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
