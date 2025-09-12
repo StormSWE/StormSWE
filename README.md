@@ -1,21 +1,29 @@
-# Hi there 👋, I'm Subhi Bekri  
+# 👋 Hello, I'm Subhi Bekri
 
 💻 Software Developer from Sakarya  
-🎯 Specialized in **Python, Django, DRF, PostgreSQL**  
-⚡ Skilled with **Git & Docker** for efficient workflows  
-🚀 Passionate about **Open Source, Clean Code, and AI-driven solutions**  
-🌐 Connect with me: [LinkedIn](https://linkedin.com/) | [Twitter](https://twitter.com/)  
+🎓 Background in Information Technology & backend systems  
+🚀 Passionate about **Backend Development**, mainly with **Django & REST APIs**  
+⚡ Skilled in building **scalable, secure, and efficient applications**  
+🤖 Interested in **Open Source, AI integration, and DevOps practices**  
+🌱 Always learning new tools and exploring modern technologies  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="50" height="50"/>
-  <img src="https://img.shields.io/badge/DRF-Django%20REST-red?style=flat-square&logo=django" alt="drf" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Django REST](https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
+---
+
+## 📬 Get in Touch  
+
+- 📧 Email: [subhibekri@example.com](mailto:subhibekri@example.com)  
+- 💼 LinkedIn: [Subhi Bekri](https://linkedin.com/)  
+- 🐙 GitHub: [TheBakri](https://github.com/TheBakri)  
+
+---
