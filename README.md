@@ -21,14 +21,6 @@
 
 ---
 
-## 📊 GitHub Highlights  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheBakri&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=TheBakri&theme=radical)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=TheBakri&theme=radical&no-frame=true&margin-w=5)  
-
----
-
 ## 📬 Get in Touch  
 
 - 📧 Email: [subhibekri@example.com](mailto:subhibekri@example.com)  
