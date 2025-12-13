@@ -9,6 +9,5 @@ Strong emphasis on clean code, performance, and long-term maintainability.
 Tech: Django · DRF · ASP.NET Core · PostgreSQL · Redis · Docker · Nginx · Git
 
 Contact: 
-
  · subhibekri@gmail.com
  · https://linkedin.com/in/subhi-bekri
