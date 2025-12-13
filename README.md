@@ -7,6 +7,6 @@ Experience with multi-tenant architectures, background processing, and productio
 Strong emphasis on clean code, performance, and long-term maintainability.
 
 Tech: Django · DRF · ASP.NET Core · PostgreSQL · Redis · Docker · Nginx · Git
-Contact: subhibekri@gmail.com
- · https://github.com/StormSWE
+Contact: 
+ · subhibekri@gmail.com
  · https://linkedin.com/in/subhi-bekri
