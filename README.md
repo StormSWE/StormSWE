@@ -1,5 +1,3 @@
-Subhi Bekri
-
 Backend Engineer working with Python (Django, Django REST Framework) and ASP.NET Core, focused on building reliable backend systems and well-designed APIs.
 
 I work on real-world backend applications, including multi-tenant architectures, background processing, and production deployments.
